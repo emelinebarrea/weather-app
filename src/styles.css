@@ -1,0 +1,105 @@
+h1 {
+  margin-top: 50px;
+  font-family: "Roboto", sans-serif;
+}
+
+h2 {
+  line-height: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 25px;
+}
+
+h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 22px;
+  padding: 35px;
+}
+form {
+  margin-top: 50px;
+}
+
+#current {
+  margin-left: 20px;
+  padding: 0 10px;
+  color: white;
+  background: green;
+  border: none;
+}
+
+#celsius {
+  font-size: 30px;
+}
+
+.btn-primary {
+  margin: 0;
+}
+
+.mb-3 {
+  margin-top: 50px;
+  display: inline-block;
+}
+
+.time {
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+
+.precipitations {
+  padding: 40px 0;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+}
+
+hr {
+  width: 200px;
+}
+
+.cloudy {
+  line-height: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 20px;
+}
+
+.quote {
+  line-height: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 18px;
+  padding: 40px 0;
+  font-style: italic;
+}
+
+.next-five-days {
+  font-size: 25px;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+  color: grey;
+  padding-top: 20px;
+}
+
+.monday,
+.tuesday,
+.wednesday,
+.thursday,
+.friday {
+  background-image: linear-gradient(to top, #ace0f9 0%, #ffffff 100%);
+  padding: 50px 0;
+  border-radius: 6px;
+}
+
+#city-form {
+  max-width: 500px;
+  padding-top: 40px;
+}
+
+.degrees {
+  font-size: 20px;
+}
+
+#displayed-temp {
+  font-size: 50px;
+  font-family: "Roboto", sans-serif;
+}
+
+.temperature {
+  margin-top: 50px;
+}
